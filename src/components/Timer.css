@@ -1,0 +1,8 @@
+.level{
+    display: flex;
+}
+p{
+    flex: 1;
+}
+
+
